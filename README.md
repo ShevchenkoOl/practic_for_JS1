@@ -76,3 +76,12 @@ Při odeslání formuláře by se stránka neměla znovu načítat.
 Pokud má formulář prázdná pole, zobrazí se upozornění, že musí být vyplněna všechna pole.
 Pokud uživatel vyplnil všechna pole a odeslal formulář, shromážděte hodnoty polí do objektu, kde název pole bude názvem vlastnosti a hodnota pole bude hodnotou vlastnosti. Pro přístup k prvkům formuláře použijte vlastnost elements.
 Zobrazte objekt se zadanými daty v konzole a vymažte hodnoty polí formuláře pomocí metody reset.
+
+## Používání
+Chcete-li použít toto úložiště, postupujte takto:
+1. Naklonujte úložiště do místního počítače;
+2. Přejděte do adresáře úložiště;
+3. Spusťte každou úlohu podle pokynů popsaných v příslušném souboru úlohy.
+
+## Autor
+Toto úložiště vytvořil a spravuje [Oleksii Shevchenko](https://shevchenkool.github.io/portfolio/). Dotazy, návrhy a zpětnou vazbu lze směřovat na [email](uzlabini@gmail.com) or [linkedin profile](linkedin.com/in/oleksii-shevchenko-535ab61b8).
