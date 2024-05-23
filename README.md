@@ -26,7 +26,7 @@ Napište skript, který při psaní textu do input#name-input (vstupní událost
 # Úkol 4
 Napište skript, který při ztrátě fokusu na vstupu (událost rozmazání) zkontroluje jeho obsah na správný počet zadaných znaků.
 ```html
-<vstup
+<input
    type="text"
    id="validation-input"
    data-length="6"
